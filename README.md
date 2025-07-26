@@ -1,2 +1,2 @@
-# FootballSim1
+# Football_Sim_1
 Developed an unsupervised learning pipeline to analyze outfield football players using clustering (K-Means) and dimensionality reduction (PCA). Engineered player performance features, normalized high-dimensional data, and visualized clusters to identify stylistic similarities. Built a prototype similarity search tool to recommend players with comparable profiles based on statistical performance metrics.
