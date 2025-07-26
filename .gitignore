@@ -1,0 +1,9 @@
+# Ignore macOS system files
+.DS_Store
+
+# Virtual environments (if applicable)
+venv/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
